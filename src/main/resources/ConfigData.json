@@ -1,0 +1,5 @@
+{
+  "BASE_URI": "https://jsonplaceholder.typicode.com",
+  "JSON_CONTENT": "application/json",
+  "HEADER_CONTENT_TYPE": "Content-Type"
+}

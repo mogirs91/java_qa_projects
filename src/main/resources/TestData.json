@@ -1,0 +1,7 @@
+{
+  "USER_ID": 5,
+  "POST_REQUEST_ID": 101,
+  "TITLE_LENGTH": 10,
+  "BODY_LENGTH": 20,
+  "EMPTY_RESPONSE_BODY": "{}"
+}
