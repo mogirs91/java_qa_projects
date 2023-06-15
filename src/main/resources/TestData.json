@@ -1,0 +1,9 @@
+{
+  "USER_EMAIL": "myrandomemail@gmail.com",
+  "TIMER_VALUE": "00:00:00",
+  "NUMBER_OF_INTERESTS": 3,
+  "DELETE_EXPECTED_VALUE": "",
+  "TEST_STATUS_CODE_FROM": 1,
+  "TEST_STATUS_CODE_TO": 3,
+  "DATABASE_NAME": "union_reporting"
+}

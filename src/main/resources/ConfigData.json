@@ -1,0 +1,7 @@
+{
+  "MAIN_PAGE_URL": "https://userinyerface.com/",
+  "EXPLICIT_WAIT": 25,
+  "DB_CONNECTION_URL": "jdbc:mysql://localhost:3306/union_reporting",
+  "DB_USER": "root",
+  "DB_PASSWORD": "root"
+}
