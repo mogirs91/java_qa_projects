@@ -1,0 +1,5 @@
+{
+  "BASE_URI": "https://api.vk.com/method/",
+  "MAIN_PAGE_URL": "https://vk.com",
+  "ENCODING": "UTF-8"
+}
